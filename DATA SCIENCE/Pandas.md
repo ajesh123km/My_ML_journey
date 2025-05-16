@@ -4,7 +4,7 @@
 pandas provides powerful tools to work with arrays (Series and DataFrame structures) efficiently. It enables vectorized operations, data transformations, and aggregations with ease.
 
 ## 📌 Creating Arrays in pandas  
-### ✅ Creating a Series (1D Array)   
+### ✅ Creating a Series (1D Array)    
 ```python
 import pandas as pd
 import numpy as np
