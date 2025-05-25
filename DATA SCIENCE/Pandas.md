@@ -39,7 +39,7 @@ def square(x):
 
 series.apply(square)  # Apply function to each element
 ```
-
+ 
 ### 🔹 Aggregate Functions  
 ```python
 print(series.sum())    # Sum of elements
