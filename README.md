@@ -2,7 +2,7 @@
   🚀 My Data Science & Machine Learning Journey 📚  
 </h1>  
 
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Exploring+Data+Science+and+ML!+%F0%9F%8C%9F;Learning%2C+Building%2C+Growing!+%F0%9F%92%AA;Sharing+my+DS+and+ML+Progress+weekly!+%E2%9C%85;Join+me+on+this+exciting+journey!+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
